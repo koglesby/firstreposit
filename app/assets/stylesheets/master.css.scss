@@ -1,6 +1,9 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+@-ms-viewport{
+  width: device-width;
+}
 
 .clear {
   clear:both;
@@ -100,3 +103,4 @@ h2 span {
 ::selection {
   background-color: #f84342
 }
+
