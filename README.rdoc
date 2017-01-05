@@ -1,4 +1,2 @@
 == README
 
-"Pizza rules"
-  -K.O.
