@@ -1,2 +1,5 @@
 == README
 
+"Pepperoni Pizza rules!"
+  -Kdog
+
