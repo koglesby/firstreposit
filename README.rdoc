@@ -1,4 +1,4 @@
 == README
 
-"Pizza rules"
-  -K.O.
+"Pizza rules!"
+  -Kdog
